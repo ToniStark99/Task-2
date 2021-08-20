@@ -1,0 +1,28 @@
+        .logo-heading{
+            padding-left: 10px;
+            font-size: 28px;
+            display: inline;
+            font-weight: 700;
+            text-align: left;
+            margin-left: 1100px;
+        }
+        .logo{
+            padding-left: 10px;
+        }
+        .my-img{
+            margin-top: 20px;
+            margin-bottom: 10px;
+            border:none;
+            }
+        .edu{
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+        .ctrl{
+            margin-top: 10px;
+            margin-bottom: 10px;
+
+        }
+        .card-title{
+            font-size: 24px;
+        }
